@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KampIntro", "KampIntro.csproj", "{34CA6E79-8842-4A4E-BF3E-5D23B1E16936}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donguler", "..\Donguler\Donguler.csproj", "{7B12A6A5-15A3-41D7-B64A-B27BF68FF007}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassIntro", "..\ClassIntro\ClassIntro.csproj", "{CBBC403D-4B3B-416D-99A5-274C713C3AF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34CA6E79-8842-4A4E-BF3E-5D23B1E16936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34CA6E79-8842-4A4E-BF3E-5D23B1E16936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34CA6E79-8842-4A4E-BF3E-5D23B1E16936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34CA6E79-8842-4A4E-BF3E-5D23B1E16936}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B12A6A5-15A3-41D7-B64A-B27BF68FF007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B12A6A5-15A3-41D7-B64A-B27BF68FF007}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B12A6A5-15A3-41D7-B64A-B27BF68FF007}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B12A6A5-15A3-41D7-B64A-B27BF68FF007}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBBC403D-4B3B-416D-99A5-274C713C3AF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBBC403D-4B3B-416D-99A5-274C713C3AF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBBC403D-4B3B-416D-99A5-274C713C3AF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBBC403D-4B3B-416D-99A5-274C713C3AF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DF55494-C10D-4999-A4B7-839B84E97A2B}
+	EndGlobalSection
+EndGlobal

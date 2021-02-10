@@ -1,0 +1,13 @@
+C:\Users\duygueroglu\source\repos\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.exe
+C:\Users\duygueroglu\source\repos\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.deps.json
+C:\Users\duygueroglu\source\repos\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.runtimeconfig.json
+C:\Users\duygueroglu\source\repos\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.runtimeconfig.dev.json
+C:\Users\duygueroglu\source\repos\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.dll
+C:\Users\duygueroglu\source\repos\KampIntro\bin\Debug\netcoreapp3.1\KampIntro.pdb
+C:\Users\duygueroglu\source\repos\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.csprojAssemblyReference.cache
+C:\Users\duygueroglu\source\repos\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.AssemblyInfoInputs.cache
+C:\Users\duygueroglu\source\repos\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.AssemblyInfo.cs
+C:\Users\duygueroglu\source\repos\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.csproj.CoreCompileInputs.cache
+C:\Users\duygueroglu\source\repos\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.dll
+C:\Users\duygueroglu\source\repos\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.pdb
+C:\Users\duygueroglu\source\repos\KampIntro\obj\Debug\netcoreapp3.1\KampIntro.genruntimeconfig.cache
