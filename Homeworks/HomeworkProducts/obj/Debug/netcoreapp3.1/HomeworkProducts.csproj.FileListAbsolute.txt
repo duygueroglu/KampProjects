@@ -1,0 +1,13 @@
+C:\Users\duygueroglu\source\repos\HomeworkProducts\bin\Debug\netcoreapp3.1\HomeworkProducts.exe
+C:\Users\duygueroglu\source\repos\HomeworkProducts\bin\Debug\netcoreapp3.1\HomeworkProducts.deps.json
+C:\Users\duygueroglu\source\repos\HomeworkProducts\bin\Debug\netcoreapp3.1\HomeworkProducts.runtimeconfig.json
+C:\Users\duygueroglu\source\repos\HomeworkProducts\bin\Debug\netcoreapp3.1\HomeworkProducts.runtimeconfig.dev.json
+C:\Users\duygueroglu\source\repos\HomeworkProducts\bin\Debug\netcoreapp3.1\HomeworkProducts.dll
+C:\Users\duygueroglu\source\repos\HomeworkProducts\bin\Debug\netcoreapp3.1\HomeworkProducts.pdb
+C:\Users\duygueroglu\source\repos\HomeworkProducts\obj\Debug\netcoreapp3.1\HomeworkProducts.csprojAssemblyReference.cache
+C:\Users\duygueroglu\source\repos\HomeworkProducts\obj\Debug\netcoreapp3.1\HomeworkProducts.AssemblyInfoInputs.cache
+C:\Users\duygueroglu\source\repos\HomeworkProducts\obj\Debug\netcoreapp3.1\HomeworkProducts.AssemblyInfo.cs
+C:\Users\duygueroglu\source\repos\HomeworkProducts\obj\Debug\netcoreapp3.1\HomeworkProducts.csproj.CoreCompileInputs.cache
+C:\Users\duygueroglu\source\repos\HomeworkProducts\obj\Debug\netcoreapp3.1\HomeworkProducts.dll
+C:\Users\duygueroglu\source\repos\HomeworkProducts\obj\Debug\netcoreapp3.1\HomeworkProducts.pdb
+C:\Users\duygueroglu\source\repos\HomeworkProducts\obj\Debug\netcoreapp3.1\HomeworkProducts.genruntimeconfig.cache
