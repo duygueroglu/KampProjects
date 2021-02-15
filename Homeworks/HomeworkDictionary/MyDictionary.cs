@@ -29,7 +29,7 @@ namespace HomeworkDictionary
             }
             catch
             {
-                Console.WriteLine("Word doesn't exist.");
+                Console.WriteLine("The word doesn't exist.");
             }
         }
     }
