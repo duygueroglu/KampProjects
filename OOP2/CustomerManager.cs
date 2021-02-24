@@ -9,10 +9,6 @@ namespace OOP2
     {
         public void Add(Customer customer)  //polymorphism, we can keep RealCustomer or CorporateCustomer in here
         {
-           // if(customer.)
-           // {
-           //
-           // }
         }
     }
 }
